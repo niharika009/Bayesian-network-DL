@@ -16,3 +16,9 @@ smog accident
 \ /
 \ /
 traffic
+
+Bayesian Networks
+
+Probabilistic Graphical Models
+
+Conditional Probability Distribution (CPD)
