@@ -16,6 +16,7 @@ smog accident
 \ /
 \ /
 traffic
+🧠 Concepts Used
 
 Bayesian Networks
 
