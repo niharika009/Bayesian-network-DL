@@ -12,10 +12,14 @@ This project demonstrates the construction of a simple Bayesian Network using Py
 
 ## 📊 Bayesian Model Structure
 
-smog accident
-\ /
-\ /
-traffic
+     Smog        Accident
+       \          /
+        \        /
+         \      /
+         ┌──────┐
+         │Traffic│
+         └──────┘
+
 🧠 Concepts Used
 
 Bayesian Networks
