@@ -1,7 +1,7 @@
 # Bayesian Network using pgmpy
 
 This project demonstrates the construction of a simple Bayesian Network using Python and the `pgmpy` library. It models the relationship between environmental factors (like smog), events (like accidents), and their influence on traffic.
-It also have some other operation in deep learning that
+It also have some other operation in deep learning that are very imp
 
 ## 📌 Features
 
