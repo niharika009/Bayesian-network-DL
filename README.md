@@ -21,7 +21,7 @@ It also have some other operation in deep learning that are very important to le
          │Traffic│
          └──────┘
 
-🧠 Concepts Used:-
+🧠 Concepts Used:
 
 Bayesian Networks
 
